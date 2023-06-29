@@ -1,0 +1,27 @@
+.navigation-container{
+    padding: 3px;
+    display: flex;
+    justify-content: space-between; 
+    border-bottom: 2px solid purple;
+}
+
+.admin{
+    padding-left: 100px;
+    padding-top: 10px;
+}
+
+.admin p{
+    display: inline; 
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.navigation{
+padding-right: 50px;
+}
+
+.navigation li{
+display: inline;
+padding-left: 10px;
+padding-right: 10px;
+}
