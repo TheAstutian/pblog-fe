@@ -1,6 +1,6 @@
 import './App.css';
 import Navigation from './components/Navigation/Navigation.js';
-import Home from './components/Home/Home';
+import Home from './Pages/Home/Home'
 import Footer from './components/Footer/Footer'
 
 

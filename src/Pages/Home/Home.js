@@ -25,8 +25,8 @@ class Home extends React.Component{
 
             <div>
             <p>This is the blog care display area</p>    
-            <Blog title={this.state.blog_entries[1].title}
-                    body={this.state.blog_entries[1].body}
+            <Blog title={this.state.blog_entries[0].title}
+                    body={this.state.blog_entries[0].body}
             />
             </div>
 
